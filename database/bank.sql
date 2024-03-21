@@ -1,0 +1,21 @@
+CREATE TABLE `pending_accounts` (
+  `Application_no` varchar(50) NOT NULL,
+  `Name` varchar(50) DEFAULT NULL,
+  `Gender` varchar(50) DEFAULT NULL,
+  `Mobile_no` varchar(50) DEFAULT NULL,
+  `Email_id` varchar(50) DEFAULT 'Nil', 
+  `DOB` varchar(50) DEFAULT NULL,
+  `Aadhar_no` varchar(50) DEFAULT NULL, 
+  `PAN` varchar(50) DEFAULT NULL, 
+  `Home_Addr` varchar(100) DEFAULT NULL,
+  `Office_Addr` varchar(100) DEFAULT NULL,
+  `Country` varchar(50) DEFAULT NULL,
+  `State` varchar(50) DEFAULT NULL,
+  `City` varchar(50) DEFAULT NULL,
+ `Village` varchar(50) DEFAULT NULL,
+  `Pin` varchar(50) DEFAULT NULL,
+  `Nominee_name` varchar(255) DEFAULT NULL,
+  `Nominee_ac_no` varchar(255) DEFAULT NULL,
+  `Account_type` varchar(50) DEFAULT NULL,
+  `Application_Date` varchar(50) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;

@@ -1,0 +1,85 @@
+*{
+	margin:0px;
+	height:100;
+		
+}
+body{
+	font-family:Arial, Helvetica, sans-serif;
+  width:100%;
+  height:100%;
+}
+
+
+.table1 {
+margin-right:20;
+height:50;
+  padding-left:1100;
+ width:100%;
+  background:#FF3300;
+
+}
+.table1  tr th a {
+	color:#FFFFFF;
+	text-decoration:none;
+}
+.table1 tr th a:hover {
+  color: #000000;
+}
+
+
+.table1 th {
+  display:inline-table;
+  padding: 10px;
+}
+
+
+
+.table2{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:24;
+	
+	width:100%;
+  	padding-right:999;
+	/*text-align:inherit;*/
+	display:inline-table;
+	color:#FF0000;
+	
+/*background:#DDDDDD;*/
+  
+  }
+.tblbg1{
+/*background-image:url('https://thumbs.dreamstime.com/z/banking-services-wall-light-box-billboard-background-isolated-white-banking-services-billboard-background-113028666.jpg');*/
+ height:220;
+ background:#000000;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+.table2  p{
+	font-weight:600;
+	height:5%;	
+}
+.table2 tr td{
+	
+}
+.table3 { 
+text-align:left; 
+width:100%;
+padding-right:55%;
+
+  letter-spacing:;
+  
+  font-family:Verdana, Arial, Helvetica, sans-serif;
+  font-size: 16px; 
+/*background:#FF3300;
+background-image:url('https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/UD7CEz6/bank-bank-building-branch_vyks9ofi_thumbnail-1080_01.png');*/
+  }
+.table3 tr th a{
+	color:#FFFFFF;
+	letter-spacing:3;
+	text-decoration:none;
+	font-weight:900;
+}
+.table3 tr th a:hover {
+  color:#FF0000;
+}

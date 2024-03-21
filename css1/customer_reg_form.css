@@ -1,0 +1,52 @@
+
+}
+body{
+	/*font-family:Arial, Helvetica, sans-serif;*/
+  /*width:100%;*/
+  color: darkblue;
+  font-size: 20px;
+  margin-top:%;
+  margin-right: 50px;
+  margin-left: 50px;
+  margin-bottom: 10%;
+}
+.customer_reg_form{
+	background-color: #DDDDDD;
+	
+	padding-top: 100px;
+  padding-bottom: 100px;
+  padding-left: PX;
+  padding-right: px;
+}
+.customer_reg_form tr td{
+	padding: 20px;
+	font-family: cursive;
+	color: darkblue;
+}
+.customer_reg_form h1{
+	color: orangered;
+	font-family: cursive;
+}
+.customer_reg_form input{
+	font-family: cursive;
+	color: orangered;
+	font-size: 20px;
+	
+}
+.customer_reg_form textarea{
+	font-family: cursive;
+	color: orangered;
+	font-size: 20px;
+	
+}
+.customer_reg_form select{
+	font-family: cursive;
+	color: orangered;
+	font-size: 20px;
+	
+}
+.customer_reg_form {
+	border: 2px solid red;
+  border-radius: 20px;
+  padding: 5px;;
+}

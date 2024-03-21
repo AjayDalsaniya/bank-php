@@ -1,0 +1,102 @@
+body {
+  /* background-color: #B9EDEA; */
+  margin: 0px;
+}
+.tb8{
+	margin:%;
+	
+    padding-top: 20px;
+  padding-bottom: 20px;
+  /*margin: 0 auto;*/
+}
+
+.table6{
+	padding-left:500;
+	
+	
+}
+.table6 tr td{
+	padding-left:250;
+}
+
+.table7{
+ margin-left:250;
+ margin-right:350;
+ margin-top:0%;
+ margin-bottom:0%; 
+}
+
+.table7 tr td p1{
+	color:#FFFFFF;
+ font-family:Verdana, Arial, Helvetica, sans-serif;	
+	font-size:24;
+	font-style:oblique;
+}
+.table7 tr td{
+	text-align:center;
+  	padding: 20;
+  	padding-top:10;
+
+  	background-color: #FF0000;
+  	
+  	width: 30%;
+  	border-top-right-radius: 25px;
+  	border-bottom-left-radius:25px;
+  	border-bottom-right-radius:25px;
+  	border-top-left-radius:25px;
+}
+input{
+	color:#000000;
+	
+     font-size:28;
+	/*width:100%;*/
+	border:none;
+	background:#FF0000
+}
+.table7 tr td a1{
+	
+	
+	
+}
+
+
+p2{
+ color:#FFFFFF;
+ font-family:Verdana, Arial, Helvetica, sans-serif;
+ font-style:italic;
+ font-weight:600;
+ font-size:34;
+}
+.table7 tr td  p3 input{
+color:#FFFFFF;
+ font-family:Verdana, Arial, Helvetica, sans-serif;
+ font-style:italic;
+ font-weight:600;
+ font-size:34;
+}
+p3 input: hover{
+background:#336666;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

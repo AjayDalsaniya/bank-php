@@ -1,0 +1,41 @@
+.table5{
+	background:#DDDDDD;
+	width:100%;
+	text-align:center;
+	padding-right:550;
+	padding-left:450;
+	
+}
+.table5 tr td a{
+	text-decoration:none;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:18px;
+	font-style:italic;
+	font-stretch:wider;
+	font-weight:600;
+	color:#000000;	
+}
+.table5 tr td a:hover{
+	color:#FF3300;
+	
+}
+.table5 tr td{
+color: #000000;
+  padding: 5;
+  padding-top:50;
+  
+  margin: 20;
+  background-color: #FF3300;
+  display: inline-block;
+  width: 30%;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius:25px;
+  border-bottom-right-radius:25px;
+  border-top-left-radius:25px;
+  border-bottom: 2px solid #FF3300;
+  border-top:2px solid #FF3300;
+  transition-duration: 0.4s;
+}
+.table5 tr td:hover {
+  background-color: #DDDDDD;
+ }
